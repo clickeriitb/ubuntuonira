@@ -21,7 +21,11 @@ List of Contents
 
 4) [running_fedora18_on_IRA]
 
-7) [FAQS]
+5) [FAQS]
 
-8) [references]
+6) [references]
+
+
+[FAQS]: https://github.com/clickeriitb/ubuntuonira/blob/master/FAQS
+[references]: https://github.com/clickeriitb/cubieboard-A20/blob/master/references
 
