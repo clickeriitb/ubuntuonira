@@ -59,3 +59,44 @@ Q2) After entering inside the terminal of Complete linux installer,I got the fol
     Option 2)
     
     REBOOT the laptop and repeat continue from step 19 onwards of "running_ubuntu_inside_android.md" file
+    
+Q3) I got the following errors after typing:
+
+    apt-get update
+
+    Err http://ports.ubuntu.com karmic/main Packages
+    404 Not Found
+
+    Err http://ports.ubuntu.com karmic/universe Packages 
+    404 Not Found
+
+    W: Failed to fetch http://ports.ubuntu.com/ubuntu-ports/dists/karmic/main/binary-armel/Packages.gz 404 Not Found
+
+    W: Failed to fetch http://ports.ubuntu.com/ubuntu-ports/dists/karmic/universe/binary-armel/Packages.gz 404 Not Found
+
+    E: Some index files failed to download, they have been ignored, or old ones used instead.
+
+   What should I resolve this error?
+
+    Solution
+    --------
+
+    cat > /etc/apt/sources.list (press enter)
+
+    deb http://old-releases.ubuntu.com/ubuntu/ karmic main universe
+
+    Then hit Ctrl+D twice and Enter.
+
+    apt-get update (press enter)
+
+    This will update the Ubuntu sources.
+
+
+Q4) I got the following error:
+
+    android-vcn error: connection refused unable to connect
+
+    Solution
+    --------
+
+    change to Port: 5900 instead of 5901 and click on connect button.
