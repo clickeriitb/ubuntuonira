@@ -26,6 +26,7 @@ List of Contents
 6) [references]
 
 
-[FAQS]: https://github.com/clickeriitb/ubuntuonira/blob/master/FAQS
+[FAQS]: https://github.com/clickeriitb/ubuntuonira/blob/master/FAQS.md
 [references]: https://github.com/clickeriitb/cubieboard-A20/blob/master/references
+
 
