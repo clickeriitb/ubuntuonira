@@ -28,7 +28,7 @@ List of Contents
 
 [IRA_hardware_details]: https://github.com/clickeriitb/ubuntuonira/blob/master/IRA_hardware_details.md
 [setting_up_the_hardware]: https://github.com/clickeriitb/ubuntuonira/blob/master/setting_up_the_hardware.md
-[running_ubuntu12.04_inside_android]:https://github.com/clickeriitb/ubuntuonira/blob/master/running_ubuntu12.04_inside_android.md
+[running_ubuntu12.04_inside_android]: https://github.com/clickeriitb/ubuntuonira/blob/master/running_ubuntu12.04_inside_android.md
 [FAQS]: https://github.com/clickeriitb/ubuntuonira/blob/master/FAQS.md
 [references]: https://github.com/clickeriitb/ubuntuonira/blob/master/references.md
 
