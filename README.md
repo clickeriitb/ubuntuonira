@@ -17,7 +17,7 @@ List of Contents
 
 2) [setting_up_the_hardware]
 
-3) [ubuntu12.04_inside_android]
+3) [ubuntu12.04_inside_android.md]
 
 4) [fedora18_on_IRA]
 
