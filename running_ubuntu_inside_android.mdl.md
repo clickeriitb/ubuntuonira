@@ -69,4 +69,18 @@ Step 21) type:
           
 Now, you are ready to install any package within Ubuntu.
 
+Step 22) click on the "home" button of laptop and then click on "android vnc" icon.
+
+Step 23) type the following:
+
+	Nickname: ubuntu
+	Password: ubuntu
+	Port	: 5900
+	
+Note:	Select 24 bit resolution [recomended]
+
+Step 24) click on "Connect" button.
+
+Done!!
+
 [here]: http://mirror22.downloadandroidrom.com/download/AndroidUbuntu/ubuntu.zip?token=841322312
